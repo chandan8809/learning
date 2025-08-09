@@ -19,5 +19,10 @@
         "bulk":"testing",
         "designation":"Tech lead",
         "age":"34"
+    },
+    "cluade_testing":{
+        "bulk":"testing",
+        "designation":"Tech lead",
+        "age":"34"
     }
 }
