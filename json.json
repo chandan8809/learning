@@ -1,0 +1,12 @@
+{
+    "employee":{
+        "name":"chandan kumar",
+        "designation":"frontend engg",
+        "age": 32
+    },
+    "employer":{
+        "name":"mayank",
+        "designation":"Tech lead",
+        "age":"34"
+    }
+}
