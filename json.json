@@ -1,6 +1,7 @@
 {
     "employee":{
         "name":"chandan kumar",
-        "designation":"frontend engg"
+        "designation":"frontend engg",
+        "age": 32
     }
 }
