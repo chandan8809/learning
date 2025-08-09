@@ -1,5 +1,6 @@
 {
     "employee":{
-        "name":"chandan kumar"
+        "name":"chandan kumar",
+        "designation":"frontend engg"
     }
 }
